@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="text_presentation">
+    Welcome to the Number Guessing Game!\nThe program will generate a random number between 1 and 100.\nYour goal is to guess the number.\nAfter each guess, you’ll receive feedback if your guess is too high, too low, or correct.\n
+    Keep guessing until you get the correct number. The game will display how many attempts it took you to win.
+    </string>
+    <string name="start_btn">Let\'s get started!</string>
+    <string name="last_attempts">Last attempts</string>
+    <string name="presentation_image">presentation image</string>
+    <string name="score_number">0</string>
+    <string name="text_hint">NaN</string>
+    <string name="confirm">Confirm</string>
+    <string name="low">LOW</string>
+    <string name="high">HIGH</string>
+    <string name="start_new_game">Start New Game</string>
+</resources>
